@@ -1,4 +1,4 @@
-![WhatsApp Image 2025-12-10 at 11 23 11_6f2c7f6c](https://github.com/user-attachments/assets/0d0d8d8c-111d-4033-97f5-e333516212e7)<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5b37a77f-f99d-4aa1-9b0f-a68d824349d3" />### SYNCHRONOUS-UP-COUNTER
+### SYNCHRONOUS-UP-COUNTER
 
 **AIM:**
 
@@ -59,6 +59,7 @@ RegisterNumber: 25017543
 **TIMING DIAGRAM FOR IP COUNTER**
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/451ddf5f-d9a6-41c5-8fc3-594196a929c6" />
 **TRUTH TABLE**
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/290bbf18-b7ab-4dc1-8952-2cfe96febb0c" />
 
 
 **RESULTS**
