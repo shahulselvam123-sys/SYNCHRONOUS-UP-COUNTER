@@ -1,4 +1,4 @@
-### SYNCHRONOUS-UP-COUNTER
+<img width="398" height="411" alt="image" src="https://github.com/user-attachments/assets/58c49cfe-8502-4443-9021-40eb4cdcb779" />### SYNCHRONOUS-UP-COUNTER
 
 **AIM:**
 
@@ -59,7 +59,9 @@ RegisterNumber: 25017543
 **TIMING DIAGRAM FOR IP COUNTER**
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/451ddf5f-d9a6-41c5-8fc3-594196a929c6" />
 **TRUTH TABLE**
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/290bbf18-b7ab-4dc1-8952-2cfe96febb0c" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a10fc55a-f196-4935-9956-31995bb38659" />
+
+
 
 
 **RESULTS**
